@@ -10,3 +10,7 @@ Script repository for "Attention training with real-time fMRI neurofeedback: an 
 
 - **glm_nfattention_im_cluster.sh**  
   Job script to run `glm_nfattention_im.mat` function on a compute cluster using SGE.
+  
+- **gm_mask.py**  
+  Script to create subject-specific gray matter mask from fmriprep outputs
+
