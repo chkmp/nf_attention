@@ -23,3 +23,6 @@ Script repository for "Attention training with real-time fMRI neurofeedback: an 
 - **roi_svm_perm_cluster.sh**  
   Job script to run `roi_svm_perm_*run.m` functions on a compute cluster using SGE.
 
+  - **blender.py**  
+  This script is to create blended image stimuli for Experiment 1.
+
