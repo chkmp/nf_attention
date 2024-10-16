@@ -28,3 +28,6 @@ Collaborators: Will Strawson, Chris Racey
 - **blender.py**  
   This script is to create blended image stimuli for Experiment 1.
 
+- **trimmed_means_anovas.r**  
+  This script is to run the trimmed means anovas for run comparisons.
+
