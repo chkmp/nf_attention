@@ -14,7 +14,7 @@ Script repository for "Attention training with real-time fMRI neurofeedback: an 
 - **gm_mask.py**  
   Script to create subject-specific gray matter mask from fmriprep outputs.
 
-  - **roi_svm_perm_withinrun.m**  
+- **roi_svm_perm_withinrun.m**  
   This script performs ROI-based SVM classification (within-run cross-fold validation) with permutation testing on fMRI data for a specific subject, utilizing multiple masks. Needs to be called with `roi_svm_perm_cluster.sh`.
 
 - **roi_svm_perm_betweenrun.m**  
