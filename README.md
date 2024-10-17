@@ -36,3 +36,12 @@ Collaborators: Will Strawson, Chris Racey
 
 - **functional_localizer_static.py**  
   Script for stimulus presentation for the static functional localizer.
+
+- **functional_localizer_video.py**  
+  Script for stimulus presentation for the dynamic functional localizer.
+
+- **training.py**  
+Script for stimulus presentation during training runs.
+
+- **jsonmaker.py**  
+Script to read the json files for `training.py` and `training.py`.
