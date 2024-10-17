@@ -31,3 +31,6 @@ Collaborators: Will Strawson, Chris Racey
 - **trimmed_means_anovas.r**  
   This script is to run the trimmed means anovas for run comparisons.
 
+- **feedback.py**  
+  Script for stimulus presentation during feedback runs.
+
