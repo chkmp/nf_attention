@@ -34,3 +34,5 @@ Collaborators: Will Strawson, Chris Racey
 - **feedback.py**  
   Script for stimulus presentation during feedback runs.
 
+- **functional_localizer_static.py**  
+  Script for stimulus presentation for the static functional localizer.
