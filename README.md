@@ -44,4 +44,7 @@ Collaborators: Will Strawson, Chris Racey
 Script for stimulus presentation during training runs.
 
 - **jsonmaker.py**  
-Script to read the json files for `training.py` and `training.py`.
+Script to read the json files for `training.py` and `feedback.py`.
+
+- **esqs.py**  
+Script for thought probs, gets called within `training.py` and `feedback.py`.

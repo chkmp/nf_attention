@@ -1,0 +1,19 @@
+dimension,question,scale_low,scale_high
+Focus,My thoughts were focused on an external task or activity:,Not at all,Completely
+Future,My thoughts involved future events:,Not at all,Completely
+Past,My thoughts involved past events:,Not at all,Completely
+Self,My thoughts involved myself:,Not at all,Completely
+Other,My thoughts involved other people:,Not at all,Completely
+Emotion,The emotion of my thoughts was:,Negative,Positive   
+Modality,My thoughts were in the form of:,Images,Words
+Detailed,My thoughts were detailed and specific:,Not at all,Completely
+Deliberate,My thoughts were:,Spontaneous,Deliberate
+Problem,I was thinking about solutions to problems (or goals):,Not at all,Completely
+Intrusive,My thoughts were intrusive:,Not at all,Completely
+Knowledge,"My thoughts contained information I already knew (e.g., knowledge or memories):",Not at all ,Completely 
+Absorption,I was absorbed in the contents of my thoughts:,Not at all,Completely
+Distracting,My thoughts were distracting me from what I am doing:,Not at all,Completely
+Neurofeedback 1,"When I was paying attention to the correct category, the colour border turned green:",Not at all,Completely
+Neurofeedback 2,"When I lost my attention, the colour border turned red:",Not at all,Completely
+Neurofeedback 3,The colour border helped me focus my attention better:,Not at all,Completely
+Neurofeedback 4,I felt like I had control over the colour of the border:,Not at all ,Completely

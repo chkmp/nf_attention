@@ -1,0 +1,1 @@
+Please contact christina.kampoureli@gmail.com for image and video stimuli.
