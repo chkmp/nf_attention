@@ -2,7 +2,7 @@
 
 Script repository for "Attention training with real-time fMRI neurofeedback: an optimised protocol" paper.
 
-Collaborators: Will Strawson, Chris Racey
+Collaborators: Will Strawson, Chris Racey, Michael Luehrs, Andreas Bressler
 
 - **fmriprep.sh**  
   Script to preprocess fMRI data using fmriprep in a singularity container.
