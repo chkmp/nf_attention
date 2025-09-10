@@ -29,7 +29,7 @@ Collaborators: Will Strawson, Chris Racey, Michael Luehrs, Andreas Bressler
   This script is to create blended image stimuli for Experiment 1.
 
 - **lmms.r**  
-  This is an example script of the code used to run the LMMs for run comparisons (i.e., glmmTMB(accuracy ~ design * ROI + (1 | sub), family = beta_family(link = "logit"))). .
+  This is an example script of the code used to run the LMMs for run comparisons (i.e., glmmTMB(accuracy ~ design * ROI + (1 | sub), family = beta_family(link = "logit"))). 
 
 - **feedback.py**  
   Script for stimulus presentation during feedback runs.
